@@ -65,6 +65,9 @@ Minya University
   <img src="https://komarev.com/ghpvc/?username=ReemAbdelkader&color=9b59b6" alt="Profile Views">
 </div>
 
-[<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ReemAbdelkader&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
-</div>](https://github-readme-stats.vercel.app/api?username=ReemAbdelkader)
+<div align="center">
+  <a href="https://github.com/ReemAbdelkader">
+    <img src="https://github-readme-stats.vercel.app/api?username=ReemAbdelkader&show_icons=true&theme=radical">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReemAbdelkader&theme=radical">
+  </a>
+</div>
