@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ReemAbdelkader/ReemAbdelkader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -60,9 +58,13 @@ Minya University
 
 ## 🔥 GitHub Streak
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ReemAbdelkader&color=purple" alt="Profile Views">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ReemAbdelkader&theme=radical&hide_border=true&stroke=9b59b6" alt="GitHub Streak">
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=https://github.com/ReemAbdelkader&color=purple" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=ReemAbdelkader&color=9b59b6" alt="Profile Views">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ReemAbdelkader&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
 </div>
