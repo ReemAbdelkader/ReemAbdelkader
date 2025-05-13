@@ -8,7 +8,7 @@
 
 ## 🎓 Education 
 **Faculty of Computers and Information Science**  
-Minya University | Fresh Graduate  
+Minya University | Fresh Graduate  2024
 
 ## 💻 Interactive Tech Stack
 
@@ -22,6 +22,9 @@ Minya University | Fresh Graduate
   </a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
 </p>
 
