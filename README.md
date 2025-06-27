@@ -63,10 +63,3 @@ Minya University | Fresh Graduate  2024
   </a>
 </p>
 
-## 🔥 GitHub Analytics
-<div align="center">
-  <a href="https://github.com/ReemAbdelkader">
-    <img src="https://github-readme-stats.vercel.app/api?username=ReemAbdelkader&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats">
-  </a>
-</div>
-
