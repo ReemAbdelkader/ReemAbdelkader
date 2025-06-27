@@ -47,10 +47,6 @@ Minya University | Fresh Graduate  2024
   </a>
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Coding Animation">
-</div>
-
 ## 📫 Let's Connect
 <p>
   <a href="https://www.linkedin.com/in/reem-abdelkader-31a8721b9/" target="_blank">
@@ -74,6 +70,3 @@ Minya University | Fresh Graduate  2024
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ReemAbdelkader&color=9b59b6" alt="Profile Views">
-</div>
