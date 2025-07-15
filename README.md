@@ -45,6 +45,9 @@ Minya University | Fresh Graduate  2024
   <a href="https://react.dev" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  </a>
 </p>
 
 ## 📫 Let's Connect
