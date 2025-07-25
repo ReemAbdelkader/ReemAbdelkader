@@ -1,11 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Reem Abdelkader | Frontend ReactJs Developer
 
-<div align="center">
-  <a href="https://github.com/ReemAbdelkader">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=9B59B6&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;React+Developer;Computer+Science+Graduate" alt="Typing Animation">
-  </a>
-</div>
-
 ## 🎓 Education 
 **Faculty of Computers and Information Science**  
 Minya University | Fresh Graduate  2024
