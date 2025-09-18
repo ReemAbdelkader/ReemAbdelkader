@@ -25,8 +25,8 @@ Minya University | Fresh Graduate  2024
     <a href="https://leetcode.com/u/Reem_Abdelkader/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40" alt="LeetCode">
     </a>
-    <a href="https://www.hackerrank.com/profile/reemabdelkader97" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="40" alt="HackerRank">
+     <a href="https://www.hackerrank.com/profile/reemabdelkader97" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" alt="HackerRank">
     </a>
     <a href="mailto:reemabdelkader97@gmail.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail">
