@@ -13,7 +13,7 @@ Minya University | Fresh Graduate  2024
 
 ### Frontend Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git" />
 </p>
 
 ## 🌐 Connect with me
