@@ -223,25 +223,6 @@ Committed to writing **clean, maintainable code** following **SOLID principles**
 </div>
 
 ---
-
-## 🎓 Certifications & Learning
-
-- 📜 **SOLID Principles & Design Patterns** - In Progress
-- 📜 **Advanced Data Structures & Algorithms** - In Progress
-- 📜 **ASP.NET Core Web API Development** - In Progress
-- 📜 **Docker & Containerization** - In Progress
-- 📜 **Agile Software Development** - In Progress
-
----
-
-## 💡 Philosophy & Values
-
-```
-"Code is not just about making things work—
-it's about making them work beautifully, maintainably, and scalably.
-Every line of code is a communication tool between developers."
-```
-
 ### What Drives Me:
 ✅ **Clean Code** - Writing readable, maintainable, and well-documented code  
 ✅ **Continuous Learning** - Staying updated with latest technologies and best practices  
