@@ -105,45 +105,6 @@ I'm a **Full-Stack Developer** with a strong **backend focus on the .NET ecosyst
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ReemAbdelkader&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF" alt="activity graph" width="95%"/>
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-> ✏️ **Replace the placeholders below with your real pinned projects** (name, one-line pitch, stack, links). Recruiters read this section first.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔹 Project One
-One-line pitch: what problem it solves.
-
-**Stack:** `ASP.NET Core` `EF Core` `SQL Server`
-
-[📂 Code](https://github.com/ReemAbdelkader) · [🌐 Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔹 Project Two
-One-line pitch: what problem it solves.
-
-**Stack:** `React` `TypeScript` `Tailwind`
-
-[📂 Code](https://github.com/ReemAbdelkader) · [🌐 Live Demo](#)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ReemAbdelkader&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED)](https://github.com/ReemAbdelkader/YOUR-REPO-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ReemAbdelkader&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED)](https://github.com/ReemAbdelkader/YOUR-REPO-2)
-
-</div>
-
 ---
 
 ## 🎯 Currently Focused On
@@ -154,36 +115,6 @@ One-line pitch: what problem it solves.
 - [ ] Unit & integration testing (xUnit, Moq)
 - [ ] CI/CD with GitHub Actions + Docker
 - [ ] Cloud deployment on Azure
-
----
-
-## 🧩 How I Write Code
-
-```csharp
-public class Developer : IProfessional
-{
-    public string Name => "Reem Abdelkader";
-    public string[] Principles => new[] { "SOLID", "Clean Code", "Test early", "Keep learning" };
-
-    public async Task<Solution> SolveAsync(Problem problem)
-    {
-        var design = Design(problem);      // think first
-        var code   = Implement(design);    // keep it simple
-        Test(code);                        // trust, but verify
-        return await ShipAsync(code);      // deliver value
-    }
-}
-```
-
----
-
-## 🏆 Coding Practice
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Reem_Abdelkader?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/Reem_Abdelkader/)
-
-</div>
 
 ---
 
