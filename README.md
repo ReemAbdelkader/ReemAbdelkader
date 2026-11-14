@@ -97,15 +97,8 @@ I'm a **Full-Stack Developer** with a strong **backend focus on the .NET ecosyst
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ReemAbdelkader&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReemAbdelkader&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=ReemAbdelkader&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ReemAbdelkader&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF" alt="activity graph" width="95%"/>
-
 </div>
----
 
 ## 🎯 Currently Focused On
 
